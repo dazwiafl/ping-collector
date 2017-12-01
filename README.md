@@ -1,2 +1,2 @@
 # ping-collector
-collecting pings since 2017
+collecting pings since 2017...
